@@ -61,7 +61,7 @@ Visualization Manager:
         Durability Policy: Volatile
         History Policy: Keep Last
         Reliability Policy: Reliable
-        Value: /D435i/color/image_raw
+        Value: /yellow_line/image
       Value: true
     - Alpha: 1
       Autocompute Intensity Bounds: true
