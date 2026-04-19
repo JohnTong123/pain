@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
             'pure_pursuit_control = f1tenth_control.pure_pursuit_control:main',
             'waypoint_recorder = f1tenth_control.waypoint_recorder:main',
+            'yellow_line_detector = f1tenth_control.bro:main',
         ],
     },
 )
